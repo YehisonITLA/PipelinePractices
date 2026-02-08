@@ -1,4 +1,4 @@
-# CI/CD Demo App
+# PipelinePractice App
 
 Aplicación web simple en Node.js con pipeline CI/CD usando GitHub Actions.
 
